@@ -9,14 +9,18 @@
   - Java
   - HTML5
   - CSS
++ Markup language:
+  - HTML5
+  - CSS
+
 + 🤓 Languages I'm learning:
   - Laravel;
   - Flutter;
   - JavaScript;
   - MySql.
  + Curiosity 
-   - I love reading
-   - Ride a bike 
+   - I love reading.
+   - Ride a bike.
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
