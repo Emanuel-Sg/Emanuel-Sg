@@ -7,8 +7,7 @@
 + Languages I currently work:
   - PHP
   - Java
-  - HTML5
-  - CSS
+  - 
 + Markup language:
   - HTML5
   - CSS
