@@ -29,6 +29,10 @@
 
 <br></br>
 
+### 🎧 Now Playing 
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/m9wd2ogd3f21qivcnzx0ou13c?si=dce9c8a92d71479e)
+
  - Curiosity 
    - I love reading.
    - Ride a bike.
