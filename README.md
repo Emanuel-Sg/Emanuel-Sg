@@ -1,4 +1,6 @@
-<h2>Hello, I'm Emanuel Bragança 👨‍💻<\h2>
+<h2>Hello, I'm Emanuel Bragança 👨‍💻
+
+<br><br>
 
 <div align="center">
   <a href="https://github.com/Emanuel-Sg">
@@ -21,7 +23,7 @@
   <a href = "mailto:emgbraganca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-bragan%C3%A7a-9b3aa11b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Emanuel-Sg/Emanuel-Sg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
