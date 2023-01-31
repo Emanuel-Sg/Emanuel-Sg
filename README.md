@@ -31,7 +31,7 @@
 
 ### 🎧 Now Playing 
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/m9wd2ogd3f21qivcnzx0ou13c?si=dce9c8a92d71479e)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/5YjN8l7UHQAXhvXKTZfvQr?si=5d3775be692843d5)
 
  - Curiosity 
    - I love reading.
